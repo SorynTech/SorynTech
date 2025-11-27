@@ -6,4 +6,5 @@
 - 📫 How to reach me: Discord: amarutheferret Emai: ZippyDrawzStudioz@Gmail.com
 - 😄 Pronouns: They/He
 - Im a slow learner so give me some time before i make repos and commits daily
-- Currently Busy Cant talk or respond to commits until 2026
+- Currently Relearning Python To start somewhere in a programming journy
+want to learn C++ and c# once im done with python learning 
