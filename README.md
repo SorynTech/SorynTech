@@ -8,12 +8,6 @@ HI there 👋 Im Soryn A python Coder who wants to learn C++ I love Hazbin Hotel
 
 ⭐ Respawn entertaintment
 
-Languages i Know:
-
-finnish 
-
-English
-
 Coding languages i know/am learning:
 
 Python (Semi proficant)
@@ -21,6 +15,7 @@ Python (Semi proficant)
 C++ (learning)
 
 Contacts:
-Zippydrawzstudios@gmail.com
+
+Email: Zippydrawzstudios@gmail.com
 
 Discord: amarutheferret
