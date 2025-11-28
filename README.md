@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Soryn from 🇬🇧<br><br>- 🔭 I’m working as a freelance Develeoper <br>- 📚 I'm currently learning Esports and C++ <br>- ⚡ In my free time I Watch Indie Shows, Play Video Games with friends and \n refine my python knowledge</p>
+<p align="left">I'm Soryn from 🇬🇧<br><br>- 🔭 I’m working as a freelance Develeoper <br>- 📚 I'm currently learning Esports and C++ <br>- ⚡ In my free time I Watch Indie Shows, Play Video Games with friends and refine my python knowledge</p>
 
 ###
 
